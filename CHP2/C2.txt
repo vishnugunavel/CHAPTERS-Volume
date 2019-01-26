@@ -1,3 +1,10 @@
 
 CHAPTER-2
+
 Many people in life behave like that dog who is pursuing meaningless goals.
+
+
+
+
+
+I have created a branch for CHP2 and branch name is C2branch
